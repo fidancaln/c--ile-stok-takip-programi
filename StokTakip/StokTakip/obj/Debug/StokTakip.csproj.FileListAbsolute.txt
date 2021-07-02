@@ -1,0 +1,16 @@
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.frmMüşteriEkle.resources
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.frmSatis.resources
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.frmMüşteriListele.resources
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.frmKategori.resources
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.frmMarka.resources
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.frmUrunEkle.resources
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.frmUrunListele.resources
+C:\Users\Casper\OneDrive\Belgeler\Visual Studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.frmSatisListele.resources
